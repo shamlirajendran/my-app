@@ -1,4 +1,4 @@
-function Card() {
+function Cart() {
   return (
     <div>
       <h1>This is the Card Component</h1>
@@ -6,4 +6,4 @@ function Card() {
   );
 }
 
-export default Card;
+export default Cart;
